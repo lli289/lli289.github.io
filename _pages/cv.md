@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, University of Kentucky, May 2024 (expected)
+* M.S in Statistics, University of Kentucky, May 2021
+* M.S in Mathematics, Miami University, May 2019
+* B.S in Mathematics, Miami University, May 2016
 
 Teaching 
 ======
