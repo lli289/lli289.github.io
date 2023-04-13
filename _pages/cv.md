@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -32,4 +31,4 @@ Publications
   Skills
 ======
 * Programming Languages: R, SAS, JMP, SPSS, MATLAB
-* Tools: $\LaTeX$, Unix, Microsoft Word, Powerpoint, Excel
+* Tools: LaTeX, Unix, Microsoft Word, Powerpoint, Excel
