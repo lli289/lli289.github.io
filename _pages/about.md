@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "(◍•ᴗ•◍)♡ ✧*。"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 
+I am a
