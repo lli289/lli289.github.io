@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "CV"
@@ -30,5 +31,5 @@ Publications
   
   Skills
 ======
-* Skill 2
-  * Sub-skill 2.1
+* Programming Languages: R, SAS, JMP, SPSS, MATLAB
+* Tools: $\LaTeX$, Unix, Microsoft Word, Powerpoint, Excel
