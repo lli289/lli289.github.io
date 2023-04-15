@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lillian / Homepage"
 title_separator          : "-"
 name                     : &name "Lillian"
-description              : Ph.D c &description "personal description"
+description              : &description "personal description"
 url                      : https://lli289.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lli289/lli289.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lillian"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "Ph.D. candidate in Statistics"
   location         : "Lexington, KY"
-  employer         :
+  employer         : "University of Kentucky, Dr. Bing Zhang Department of Statistics"
   pubmed           : 
   googlescholar    : 
   email            :
