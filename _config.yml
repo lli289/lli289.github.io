@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lillian"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in Statistics, Dr. Bing Zhang Department of Statistics"
-  location         : "University of Kentucky"
-  employer         : "Lexington, KY"
+  bio              : "Ph.D. candidate in Statistics"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
