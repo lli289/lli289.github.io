@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 ## Coursera
-  * 04-17-2023 Certification: Completion of Neural Networks and Deep Learning by $\textbf{deeplearbubg.ai}$ 
+  * 04-17-2023 Certification: Completion of two interconnected courses, which are $\textit{Neural Networks and Deep Learning}$ and $\textit{Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization}$ by $\textbf{deeplearbubg.ai}$ 
 ## University of Kentucky
   * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
   * 12-02-2022 In-person Responsible Conduct of Research (RCR) Certification.
