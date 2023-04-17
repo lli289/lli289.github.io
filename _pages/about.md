@@ -24,6 +24,8 @@ I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statis
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+### Related Training
   
 ### Teaching Experience
   <ul>{% for post in site.teaching %}
