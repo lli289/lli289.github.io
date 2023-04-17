@@ -19,11 +19,6 @@ I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statis
 * $\textbf{Li, L.}$, Ye, C., Randolph, T., and Wang, Y., TL-MMI: A transfer-learning-inspired approach for investigating microbiome-metabolome interactions. (2023+)
 * $\textbf{Li, L.}$ and Ye, C., A Genetic Algorithm for Variable Selection for High-dimensional Linear Models with Interaction Effects: R Package AVGAS. (2023+)
 * Mekuria, Z. H., Mitra, S. $\textbf{Li, L.}$, and Harrar, S. W., Timelines and Quality of SARS-CoV-2 Genomic Data in Africa: Challenges and Opportunities. (2023+)
-  
-### Talks and presentations
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 ### Teaching Experience
   <ul>{% for post in site.teaching %}
