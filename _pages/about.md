@@ -15,6 +15,16 @@ I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statis
 ### Research Interest
 * Variable Selection, Statistical Applications
 
+### Research -- Manuscripts under Preparation
+ <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+### Talks and presentations
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 ### Teaching Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
