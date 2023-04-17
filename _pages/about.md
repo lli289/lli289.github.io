@@ -25,13 +25,14 @@ I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statis
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-### Related Training
-  * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
-  * 12-02-2022 In-person Responsible Conduct of Research (RCR) Certification.
 ### Teaching Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+### Related Training
+  * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
+  * 12-02-2022 In-person Responsible Conduct of Research (RCR) Certification.
   
 ### Skills
 * Programming Languages: R, SAS, JMP, SPSS, MATLAB
