@@ -19,6 +19,7 @@ I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statis
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-### Contact 
-📧Email:lli289.git@gmail.com
+  
+### Skills
+* Programming Languages: R, SAS, JMP, SPSS, MATLAB
+* Tools: LaTeX, Unix, Microsoft Word, Powerpoint, Excel
