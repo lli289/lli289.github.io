@@ -1,10 +1,8 @@
 ---
-title: "Related Training"
+title: ""
 excerpt: ""
 collection: portfolio
 ---
-
-
 ## Coursera
   * 04-17-2023 Certification: Completion of Neural Networks and Deep Learning by $\textbf{deeplearbubg.ai}$ 
 ## University of Kentucky
