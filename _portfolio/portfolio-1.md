@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Related Training"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+## Coursera
+  * 04-17-2023 Certification: Completion of Neural Networks and Deep Learning by $\textbf{deeplearbubg.ai}$ 
+## University of Kentucky
+  * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
+  * 12-02-2022 In-person Responsible Conduct of Research (RCR) Certification.
