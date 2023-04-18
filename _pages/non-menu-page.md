@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: "Related Training"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
-======
-
-Heading 2
-======
+## Coursera
+  * 04-17-2023 Certificate in completion of two interconnected courses, which are $\textit{Neural Networks and Deep Learning}$ and $\textit{Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization}$ by $\textbf{deeplearbubg.ai}$ 
+## University of Kentucky
+  * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
+  * 12-02-2022 In-person Responsible Conduct of Research (RCR) Certification.
