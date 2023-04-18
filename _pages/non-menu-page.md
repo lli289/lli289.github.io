@@ -8,7 +8,8 @@ redirect_from:
   - "/nmp.html"
 ---
 ## Coursera
-  * 04-17-2023 Certificate in completion of two interconnected courses, which are Neural Networks and Deep Learning and Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization by $\textbf{deeplearbubg.ai}$ 
+  * 04-18-2023 Certificate in completion of $\textit{Structuring Machine Learning Projects}$ by $\textbf{deeplearbubg.ai}$ 
+  * 04-17-2023 Certificate in completion of two interconnected courses, which are $\textit{Neural Networks and Deep Learning}$, and $\textit{Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization}$ by $\textbf{deeplearbubg.ai}$ 
 
 ## University of Kentucky
   * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
