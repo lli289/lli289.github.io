@@ -10,6 +10,8 @@ redirect_from:
 
 ## Coursera MOOCs
 ### deeplearning.ai 
+  * 04-19-2023 Certificate in completion of Deep Learnng Specialization
+  * 04-19-2023 Certificate in completion of Convolutional Neural Networks
   * 04-18-2023 Certificate in completion of Sequence Models
   * 04-18-2023 Certificate in completion of Structuring Machine Learning Projects
   * 04-17-2023 Certificate in completion of Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
