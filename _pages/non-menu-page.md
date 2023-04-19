@@ -7,8 +7,9 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-## Coursera
+## Coursera MOOCs
 #### deeplearning.ai 
+  * 04-18-2023 Certificate in completion of Sequence Models
   * 04-18-2023 Certificate in completion of Structuring Machine Learning Projects
   * 04-17-2023 Certificate in completion of Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   * 04-17-2023 Certificate in completion of Neural Networks and Deep Learning
