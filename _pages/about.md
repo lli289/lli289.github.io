@@ -10,7 +10,7 @@ redirect_from:
 
 ## Lillian
 
-I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statistics](https://stat.as.uky.edu/), [University of Kentucky](https://www.uky.edu/), advised by XXX. I received my M.S. in Statistics from the [University of Kentucky](https://www.uky.edu/) in May, 2021, under the supervision of XXX, and M.S. in Mathematics from the [Miami University](https://miamioh.edu/) in May, 2019, under the guidance of XXX. Before that I received my B.S. in Mathematics from the [Miami University](https://miamioh.edu/).
+I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statistics](https://stat.as.uky.edu/), [University of Kentucky](https://www.uky.edu/), advised by XXX. I received my M.S. in Statistics from the [University of Kentucky](https://www.uky.edu/) in May, 2021, under the supervision of XXX, and M.S. in Mathematics from the [Miami University](https://miamioh.edu/) in May, 2019, advised by XXX. Before that I received my B.S. in Mathematics from the [Miami University](https://miamioh.edu/) in May, 2016.
 
 ### Research Interest
 * Variable Selection, Statistical Applications
