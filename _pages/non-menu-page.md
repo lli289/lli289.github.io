@@ -15,12 +15,7 @@ redirect_from:
 
 ### deeplearning.ai 
  
-  * 04-19-2023 Certificate in completion of Deep Learnng Specialization
-  * 04-19-2023 Certificate in completion of Convolutional Neural Networks
-  * 04-18-2023 Certificate in completion of Sequence Models
-  * 04-18-2023 Certificate in completion of Structuring Machine Learning Projects
-  * 04-17-2023 Certificate in completion of Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-  * 04-17-2023 Certificate in completion of Neural Networks and Deep Learning 
+  * 04-19-2023 Certificate in completion of Deep Learnng Specialization: completed all five interconnected courses, which are Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, Structuring Machine Learning Projects, Sequence Models, and Convolutional Neural Networks.
 
 ## University of Kentucky
   * 12-19-2022 Collaborative Institutional Training Initiative (CITI) Certification.
