@@ -9,8 +9,11 @@ redirect_from:
 ---
 ## Coursera MOOCs
 
-### deeplearning.ai 
+### deeplearning.ai, Stanford Online
   * 04-23-2023 Certificate in completion of Supervised Machine Learning: Regression and Classification
+
+### deeplearning.ai 
+ 
   * 04-19-2023 Certificate in completion of Deep Learnng Specialization
   * 04-19-2023 Certificate in completion of Convolutional Neural Networks
   * 04-18-2023 Certificate in completion of Sequence Models
