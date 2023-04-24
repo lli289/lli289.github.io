@@ -10,8 +10,7 @@ redirect_from:
 ## Coursera MOOCs
 
 ### deeplearning.ai, Stanford University
-  * 04-23-2023 Certificate in completion of Advanced Learning Algorithms
-  * 04-23-2023 Certificate in completion of Supervised Machine Learning: Regression and Classification
+  * 04-23-2023 Certificate in completion of Machine Learning Specialization: completed all three interconnected courses, which are Supervised Machine Learning: Regression and Classification, Advanced Learning Algorithms, and Unsupervised Learning, Recommenders, Reinforcement Learning.
 
 ### deeplearning.ai 
  
