@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lillian / Homepage"
 title_separator          : "-"
-name                     : &name "Lillian"
+name                     : &name "Leiyue Li"
 description              : &description "personal description"
 url                      : https://lli289.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
