@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software"
+title: "Software and Resources"
 permalink: /publications/
 author_profile: true
 ---
