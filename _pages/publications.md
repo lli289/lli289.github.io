@@ -6,3 +6,10 @@ author_profile: true
 ---
 
 ### R package
+
+* [AVGAS](https://github.com/lli289/AVGAS/blob/main/AVGAS_manual.pdf)
+
+### Resources on my Github
+
+* [Deep Learning Specialization Course 1 to 5 by Andrew Ng](https://github.com/lli289/CourseraDeepLearningSpecialization)
+* [Machine Learning Specialization Course 1 to 5 by Andrew Ng](https://github.com/lli289/CourseraMachineLearningSpecialization)
