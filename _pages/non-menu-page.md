@@ -9,6 +9,9 @@ redirect_from:
 ---
 ## Coursera MOOCs
 
+### Johns Hopkins University
+  * 05-03-2023 Certificate in completion of three interconnected courses, which are (1)The Data Scientist's Toolbox, (2) R programming, and (3) Getting and Cleaning Data.
+
 ### deeplearning.ai and Stanford University
   * 04-23-2023 Certificate in completion of Machine Learning Specialization: completed all three interconnected courses, which are (1) Supervised Machine Learning: Regression and Classification, (2) Advanced Learning Algorithms, and (3) Unsupervised Learning, Recommenders, Reinforcement Learning.
 
