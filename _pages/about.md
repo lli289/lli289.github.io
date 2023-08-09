@@ -15,11 +15,10 @@ I am a Ph.D. candidate of statistics in the [Dr. Bing Zhang Department of Statis
 ### Research Interest
 * Variable Selection, Statistical Applications
 
-### Research -- 
-#### Manuscripts under Preparation
+### Research -- Manuscripts under Preparation
 * $\textbf{Li, L.}$, Ye, C., Randolph, T., and Wang, Y., TL-MMI: A transfer-learning-inspired approach for investigating microbiome-metabolome interactions. (2023+)
 * $\textbf{Li, L.}$ and Ye, C., A Genetic Algorithm for Variable Selection for High-dimensional Linear Models with Interaction Effects: R Package AVGAS. (2023+)
-* Mekuria, Z. H., $\textbf{Li, L.}$, Mitra, S., Gebreyes, W., and Harrar, S. W., A Three-Year Assessment of More Than 150,000 SARS-CoV-2 Genomes and Metadata: Challenges and Progress in Genomic Surveillance in Africa. (2023+)
+* Mekuria, Z. H., $\textbf{Li, L.}$, Mitra, S., Gebreyes, W., and Harrar, S. W., A Three-Year Assessment of More Than 150,000 SARS-CoV-2 Genomes and Metadata: Challenges and Progress in Genomic Surveillance in Africa. (2023+) 
 
 ### Teaching Experience
   <ul>{% for post in site.teaching %}
