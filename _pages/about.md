@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "(◍•ᴗ•◍)♡ ✧*。*ﾟ¨ﾟﾟ٭*✨･*:..☆"
+title: "(◍•ᴗ•◍)♡ ✧*。*ﾟ¨ﾟﾟ٭**:..☆"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
