@@ -7,7 +7,7 @@ author_profile: true
 
 ### R package
 
-* [AVGAS](https://github.com/lli289/AVGAS/blob/main/AVGAS_manual.pdf)
+* [AVGAS](https://github.com/lli289/AVGAS/blob/main/AVGAS.pdf)
 
 ### Resources on my Github
 
